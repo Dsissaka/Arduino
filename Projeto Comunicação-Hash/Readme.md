@@ -18,7 +18,7 @@ O projeto consiste em três etapas principais:
 | Componente           | Função                                         |
 |----------------------|-----------------------------------------------|
 | Arduino (ex: Leonardo)| Geração e transmissão de dados via Serial     |
-| Sensor                | Captar informações                            |
+| Potenciometros        | Captar informações                            |
 
 
 ### Software
